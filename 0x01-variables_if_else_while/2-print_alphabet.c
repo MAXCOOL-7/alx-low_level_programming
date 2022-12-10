@@ -12,6 +12,6 @@ for (ma = 'a'; ma <= 'z'; ma++)
 {
 putchar(ma);
 }
-putchar("\n");
+putchar('\n');
 return (0);
 }
