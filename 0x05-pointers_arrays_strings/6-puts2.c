@@ -4,7 +4,7 @@
  *
  * @str: char to check
  *
- * Return: 0 is success
+ * Return: 0
  */
 void puts2(char *str)
 {
