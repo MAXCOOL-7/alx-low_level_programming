@@ -30,7 +30,7 @@ if (s2 != NULL)
 i = 0;
 while (s2[i++] != '\0')
 len2++;
- }
+}
 
 len = len1 + len2;
 result = (char *)malloc(sizeof(char) * (len + 1));
