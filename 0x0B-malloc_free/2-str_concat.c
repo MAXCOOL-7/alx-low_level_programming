@@ -54,7 +54,7 @@ result[i] = s1[i];
 
 for (j = 0; j < len2; j++, i++)
 
-result[i] = s2[j];
-result[len] = '\0';
+result[i]                 = s2[j];
+result[len]            = '\0';
 return (result);
 }
